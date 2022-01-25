@@ -1,0 +1,22 @@
+@import  url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap' );
+/*Import da fonte utilizada no disigner*/ 
+
+/*bootstrap*/
+
+:root {
+  --color-primary :  #4D41C0 ; /*definição da cor primaria */
+}
+
+* {
+    box-sizing : border-box;  /*para q o espaçamento n oculpe espaço a mais*/
+   font-family :  'Open Sans' , sans-serif; /* definição de toda a fonte*/
+}
+
+html ,  body {
+    background-color: #e8e8e8 ; /*cor de fundo do projeto*/
+}
+
+a ,  a :hover { /*sempre que tiver um link n sera crifado nem ficará azul*/
+  text-decoration : none;
+ color: unset;
+}
