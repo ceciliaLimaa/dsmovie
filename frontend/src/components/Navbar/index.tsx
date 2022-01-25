@@ -6,11 +6,14 @@ function Navbar() {
         <header>
             <nav className="container">
                 <div className="dsmovie-nav-content">
+
                     <h1> DSMovie </h1>
+
                     <a href="https://github.com/ceciliaLimaa" target="_blank " rel="noreferrer">
                         <div className="dsmovie-contact-container">
                             <GithubIcon /> {/* Transforma a imagem em um tag html */}
                             <p className="dsmovie-contact-link"> /Ana Cecília </p>
+                            
                         </div>
                     </a>
                 </div >
