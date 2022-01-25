@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", //para que não haja mais problema com o local da imagem.
     "target": "es5",
     "lib": [
       "dom",
