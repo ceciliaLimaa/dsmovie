@@ -1,6 +1,5 @@
 
 header{
-
     background-color: var(--color-primary);
     height: 60px;
     display: flex; /* mantem os elementos uma o lado do outro*/
