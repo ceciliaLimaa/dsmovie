@@ -9,15 +9,15 @@
 }
 
 .dsmovie-form-group {
-    margin-bottom :20px;
+    margin-bottom: 20px;
 }
 
 .dsmovie-form-group label {
    font-size: 12px;
-   color : #aaa; 
+   color: #aaa; 
 }
 
 .dsmovie-form-btn-container {
-    display : flex;
+    display: flex;
    justify-content : centro;
 }
