@@ -18,7 +18,7 @@ public class MovieService {
 	private MovieRepository repository;
 	
 	@Transactional(readOnly = true)
-	public Page<MovieDTO>findALL(Pageable pageable) {
+	public Page<MovieDTO>findAll(Pageable pageable) {
 		Page<Movie> result = repository.findAll(pageable); 
 		Page<MovieDTO> page = result.map(x -> new MovieDTO(x));
 		return page;
