@@ -1,0 +1,11 @@
+postgres:
+//
+sxesgmpbwxqoka
+:
+f662b0f99eb5791b49ae680ffce56ec61999c25c1d80bb8d8e21459b877acbd1
+@
+ec2-54-157-15-228.compute-1.amazonaws.com
+:
+5432
+/
+den2q2jpkmcus1
